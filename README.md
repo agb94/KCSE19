@@ -1,5 +1,8 @@
 # KCSE19
 
+## Paper
+An, G., & Yoo, S. (2019). Search Space Reduction for Automated Program Repair Using Lexical Features. In Proceedings of the 21st Korea Conference on Software Engineering.
+
 ## Environment Setup
 python version: 3.6.2
 
