@@ -1,5 +1,3 @@
-import os
-import argparse
 import numpy as np
 import difflib
 from sklearn.feature_extraction.text import CountVectorizer
